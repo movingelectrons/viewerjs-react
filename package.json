@@ -1,6 +1,6 @@
 {
   "name": "viewerjs-react",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Typescript supported react wrapper for viewerjs.",
   "author": {
     "name": "Emil Zhai <TinyMins>",
@@ -45,7 +45,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
+    "react": "^18.0.0",
     "viewerjs": "^1.9.0"
   },
   "devDependencies": {
